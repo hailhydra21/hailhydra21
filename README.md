@@ -49,6 +49,8 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Qt, Skate, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com**<br>
 
+<hr></hr>
+
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/hailhydra21/count.svg)
 
