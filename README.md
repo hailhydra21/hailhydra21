@@ -50,6 +50,7 @@
 ![](https://profile-counter.glitch.me/hailhydra21/count.svg)
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Qt, Skate, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com**<br>
 
 <!--
 **hailhydra21/hailhydra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
