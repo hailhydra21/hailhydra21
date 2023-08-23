@@ -8,11 +8,13 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/hailhydra21-profile-views"/></a>-->
 </p>
 
+![](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
 
-### Hey here, I'm YiWen.😎
+### Hey there, I'm YiWen.😎
 <!--<samp>「 I'm a passionate software developer from China. 」</samp>-->
 
-<samp>『 I'm a passionate software developer from China. 』</samp>
+<samp>『 I'm a passionate software developer from China. 』</samp></br>
+<samp>『 世界上只有一种真正的英雄主义 』</samp>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -29,9 +31,9 @@
 ![](https://img.shields.io/badge/Qt-24292e?style=flat&logo=Qt&label=Qt%20Creator)
 ![](https://img.shields.io/badge/Pycharm-24292e?style=flat&logo=Pycharm)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-31A8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black)
@@ -46,8 +48,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailhydra21&layout=compact)](https://github.com/hailhydra21/github-readme-stats)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Qt, Skate, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com**<br>
+- <img style="vertical-align：middle" src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Qt, Skate, or anything**. <br>
+- <img style="vertical-align：middle" src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
 
 <hr></hr>
 
