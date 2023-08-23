@@ -48,8 +48,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailhydra21&layout=compact)](https://github.com/hailhydra21/github-readme-stats)
 
-- <img style="vertical-align：middle" src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Qt, Skate, or anything**. <br>
-- <img style="vertical-align：middle" src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
+- <img style="vertical-align：middle" src="message.gif" width="25" />&nbsp;&nbsp; Ask me about **Qt, Skate, or anything**. <br>
+- <img style="vertical-align：middle" src="letterbox.gif" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
 
 <hr></hr>
 
