@@ -58,6 +58,9 @@
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/hailhydra21/count.svg)
 
+### Awesome GitHub Profile README
+[![][https://img.shields.io/badge/awesome-github-profile-readme-8A2BE2]](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
 <!--
 **hailhydra21/hailhydra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
