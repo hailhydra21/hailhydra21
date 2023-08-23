@@ -58,7 +58,7 @@
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/hailhydra21/count.svg)
 
-### Awesome GitHub Profile README
+### 🤩 Awesome GitHub Profile README
 
 [![awesome-github-profile-readme](https://img.shields.io/badge/awesome--github--profile--readme-24292e)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 [![awesome github profile readme chinese](https://img.shields.io/badge/awesome%20github%20profile%20readme%20chinese-24292e)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
