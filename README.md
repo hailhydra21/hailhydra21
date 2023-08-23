@@ -59,7 +59,15 @@
 ![](https://profile-counter.glitch.me/hailhydra21/count.svg)
 
 ### Awesome GitHub Profile README
-[![][https://img.shields.io/badge/awesome-github-profile-readme-8A2BE2]](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+[![awesome-github-profile-readme](https://img.shields.io/badge/awesome--github--profile--readme-24292e)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[![awesome github profile readme chinese](https://img.shields.io/badge/awesome%20github%20profile%20readme%20chinese-24292e)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
+[![DenverCoder1](https://img.shields.io/badge/DenverCoder1-24292e)](https://github.com/DenverCoder1)
+[![SP-XD](https://img.shields.io/badge/SP--XD-24292e)](https://github.com/SP-XD)
+[![SP-XD](https://img.shields.io/badge/novatorem-24292e)](https://github.com/novatorem)
+[![itgoyo](https://img.shields.io/badge/itgoyo-24292e)](https://github.com/itgoyo)
+[![Mr-Super-X](https://img.shields.io/badge/Mr--Super--X-24292e)](https://github.com/Mr-Super-X)
+[![JackHCC](https://img.shields.io/badge/JackHCC-24292e)](https://github.com/JackHCC)
 
 <!--
 **hailhydra21/hailhydra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
