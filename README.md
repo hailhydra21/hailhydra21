@@ -10,6 +10,8 @@
 
 ![](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9ubognkjeg3130xpeo1g9jy04&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9ubognkjeg3130xpeo1g9jy04&redirect=true)
+
 ### Hey there, I'm YiWen.😎
 <!--<samp>「 I'm a passionate software developer from China. 」</samp>-->
 
