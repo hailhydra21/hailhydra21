@@ -70,7 +70,7 @@
 [![itgoyo](https://img.shields.io/badge/itgoyo-24292e)](https://github.com/itgoyo)
 [![Mr-Super-X](https://img.shields.io/badge/Mr--Super--X-24292e)](https://github.com/Mr-Super-X)
 [![JackHCC](https://img.shields.io/badge/JackHCC-24292e)](https://github.com/JackHCC)
-[![hugh-zhan9](https://img.shields.io/badge/hugh--zhan9--24292e)](https://github.com/hugh-zhan9)
+[![hugh-zhan9](https://img.shields.io/badge/hugh--zhan9-24292e)](https://github.com/hugh-zhan9)
 
 <!--
 **hailhydra21/hailhydra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
