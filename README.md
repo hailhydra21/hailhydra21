@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![DOCKER](https://custom-icon-badges.demolab.com/badge/docker-1c90ed.svg?logo=docker&logoColor=white)
 
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-31A8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black)
