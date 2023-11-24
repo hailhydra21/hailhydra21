@@ -33,13 +33,12 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
-
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ![ROS](https://custom-icon-badges.demolab.com/badge/ros-f5f5f5.svg?logo=ros&logoColor=2a3a5b)
 ![DOCKER](https://custom-icon-badges.demolab.com/badge/docker-1c90ed.svg?logo=docker&logoColor=white)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-31A8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black)
-
 ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)
 
   <h3> 
