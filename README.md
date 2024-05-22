@@ -56,8 +56,6 @@
 
 <hr></hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9ubognkjeg3130xpeo1g9jy04&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/9ubognkjeg3130xpeo1g9jy04)
-
 <h3> 
   <img width=35 height=35 style="vertical-align：middle" src="image/mountain.png">
   <span>山不见我</span>
@@ -69,6 +67,8 @@
 <span><img height=40 style="vertical-align：middle" src="image/hua_shan.png"></span>
 <span><img height=43 style="vertical-align：middle" src="image/heng_shan.png"></span>
 <span><img height=44 style="vertical-align：middle" src="image/song_shan.png"></span>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9ubognkjeg3130xpeo1g9jy04&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/9ubognkjeg3130xpeo1g9jy04)
 
 ### ⚡ Visitor count
 
