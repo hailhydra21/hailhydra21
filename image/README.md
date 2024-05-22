@@ -11,7 +11,6 @@
 ![](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
 
 ### Hey there, I'm YiWen.😎
-
 <!--<samp>「 I'm a passionate software developer from China. 」</samp>-->
 
 <samp>『 I'm a passionate software developer from China. 』</samp></br>
@@ -42,36 +41,23 @@
 ![PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-31A8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black)
 ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)
 
-<h3> 
-  <img width=25 height=25 style="vertical-align：middle" src="image/github-mark.png">
-  <span>GitHub Profile Stats</span>
-</h3>
+  <h3> 
+    <img width=25 height=25 style="vertical-align：middle" src="github-mark.png">
+    <span>GitHub Profile Stats</span>
+  </h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hailhydra21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailhydra21&layout=compact)](https://github.com/hailhydra21/github-readme-stats)
 
-- <img style="vertical-align：middle" src="image/message.gif" width="25" />&nbsp;&nbsp; Ask me about **C++, Qt, or anything**. <br>
-- <img style="vertical-align：middle" src="image/letterbox.gif" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
+- <img style="vertical-align：middle" src="message.gif" width="25" />&nbsp;&nbsp; Ask me about **Qt, !Badminton, or anything**. <br>
+- <img style="vertical-align：middle" src="letterbox.gif" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
 
 <hr></hr>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9ubognkjeg3130xpeo1g9jy04&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/9ubognkjeg3130xpeo1g9jy04)
 
-<h3> 
-  <img width=35 height=35 style="vertical-align：middle" src="image/mountain.png">
-  <span>山不见我</span>
-</h3>
-
-<img height=40 style="vertical-align：middle" src="image/qing_cheng_shan.png">
-<img height=35 style="vertical-align：middle" src="image/tai_shan.png">
-<img height=40 style="vertical-align：middle" src="image/lao_shan.png">
-<img height=40 style="vertical-align：middle" src="image/hua_shan.png">
-<img height=43 style="vertical-align：middle" src="image/heng_shan.png">
-<img height=43 style="vertical-align：middle" src="image/song_shan.png">
-
 ### ⚡ Visitor count
-
 ![](https://profile-counter.glitch.me/hailhydra21/count.svg)
 
 ### 🤩 Awesome GitHub Profile README
