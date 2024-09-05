@@ -10,16 +10,16 @@
 
 <!-- ![](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg) -->
 
-<img width=800 height=400 style="vertical-align：middle" src="image/si_mei.jpg">
+<img width=900 height=450 style="vertical-align：middle" src="image/si_mei.jpg">
 
 ### Hey there, I'm YiWen.😎
 
 <!--<samp>「 I'm a passionate software developer from China. 」</samp>-->
 
-<sampdeveloper>『 I'm a passionate software developer from China. 』</samp></br>
+<sampdeveloperdeveloper>『 I'm a passionate software developer from China. 』</samp></br>
 <samp>『 世界上只有一种真正的英雄主义 』</samp>
 
-<h3and>👨‍💻 Programming and Markup Languages</h3>
+<h3andand>👨‍💻 Programming and Markup Languages</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)
@@ -29,7 +29,7 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
-<h3and>💻 Software and Tools</h3>
+<h3andand>💻 Software and Tools</h3>
 
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat&logo=Qt&label=Qt%20Creator)
 ![Pycharm](https://img.shields.io/badge/Pycharm-24292e?style=flat&logo=Pycharm)
@@ -45,7 +45,7 @@
 ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)
 
 <h3> 
-  align<img width=25 height=25 style="vertical-align：middle" src="image/github-mark.png">
+  alignalign<img width=25 height=25 style="vertical-align：middle" src="image/github-mark.png">
   <span>GitHub Profile Stats</span>
 </h3>
 
@@ -53,13 +53,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailhydra21&layout=compact)](https://github.com/hailhydra21/github-readme-stats)
 
-- alignor<img style="vertical-align：middle" src="image/message.gif" width="25" />&nbsp;&nbsp; Ask me about **C++, Qt, or anything**. <br>
-- alignHow<img style="vertical-align：middle" src="image/letterbox.gif" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
+- alignoralignor<img style="vertical-align：middle" src="image/message.gif" width="25" />&nbsp;&nbsp; Ask me about **C++, Qt, or anything**. <br>
+- aalignHowalignHow<img style="vertical-align：middle" src="image/letterbox.gif" width="25" /> &nbsp; How to reach me: **yiwencoder@outlook.com** <br>
 
 <hr></hr>
 
 <h3> 
-  align<img width=35 height=35 style="vertical-align：middle" src="image/mountain.png">
+  alignalign<img width=35 height=35 style="vertical-align：middle" src="image/mountain.png">
   <span>山不见我</span>
 </h3>
 
