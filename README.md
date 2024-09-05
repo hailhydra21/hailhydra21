@@ -35,6 +35,7 @@
 ![Pycharm](https://img.shields.io/badge/Pycharm-24292e?style=flat&logo=Pycharm)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+![CMAKE](https://img.shields.io/badge/CMAKE-bf2029.svg?logo=cmake&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
