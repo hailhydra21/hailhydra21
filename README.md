@@ -8,7 +8,9 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/hailhydra21-profile-views"/></a>-->
 </p>
 
-![](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
+<!-- ![](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg) -->
+
+<img width=1000 height=500 style="vertical-align：middle" src="image/si_mei.jpg">
 
 ### Hey there, I'm YiWen.😎
 
@@ -67,6 +69,7 @@
 <span><img height=40 style="vertical-align：middle" src="image/hua_shan.png"></span>
 <span><img height=43 style="vertical-align：middle" src="image/heng_shan.png"></span>
 <span><img height=44 style="vertical-align：middle" src="image/song_shan.png"></span>
+<span><img height=39 style="vertical-align：middle" src="image/lao_jun_shan.png"></span>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9ubognkjeg3130xpeo1g9jy04&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/9ubognkjeg3130xpeo1g9jy04)
 
