@@ -45,7 +45,7 @@
 ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)
 
 <h3> 
-  alignalignalign<img width=25 height=25 style="vertical-align：middle" src="image/github-mark.png">
+  <img width=25 height=25 style="vertical-align：middle" src="image/github-mark.png">
   <span>GitHub Profile Stats</span>
 </h3>
 
@@ -59,7 +59,7 @@
 <hr></hr>
 
 <h3> 
-  alignalignalign<img width=35 height=35 style="vertical-align：middle" src="image/mountain.png">
+  <img width=35 height=35 style="vertical-align：middle" src="image/mountain.png">
   <span>山不见我</span>
 </h3>
 
