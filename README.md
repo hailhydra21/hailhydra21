@@ -17,7 +17,7 @@
 <!--<samp>「 I'm a passionate software developer from China. 」</samp>-->
 
 <samp>『 I'm a passionate software developer from China. 』</samp></br>
-<samp>『 世界上只有一种真正的英雄主义 』</samp>
+<samp>『 君子以自强不息 』</samp>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
