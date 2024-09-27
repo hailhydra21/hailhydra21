@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![QSS](https://img.shields.io/badge/Qt-24292e?style=flat&logo=Qt&label=QSS)
 ![QML](https://img.shields.io/badge/Qt-24292e?style=flat&logo=Qt&label=QML)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Json](https://img.shields.io/badge/Json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
 <h3>💻 Software and Tools</h3>
